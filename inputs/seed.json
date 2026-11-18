@@ -1,0 +1,1539 @@
+{
+  "linked_events": [
+    {
+      "event": "A-0",
+      "anon_id": "P0",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-0",
+      "anon_id": "P0",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-0",
+      "anon_id": "P0",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-1",
+      "anon_id": "P1",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-1",
+      "anon_id": "P1",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-2",
+      "anon_id": "P2",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-2",
+      "anon_id": "P2",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-3",
+      "anon_id": "P3",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-3",
+      "anon_id": "P3",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-4",
+      "anon_id": "P4",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-4",
+      "anon_id": "P4",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-4",
+      "anon_id": "P4",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-5",
+      "anon_id": "P5",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-5",
+      "anon_id": "P5",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-6",
+      "anon_id": "P6",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-6",
+      "anon_id": "P6",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-7",
+      "anon_id": "P7",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-7",
+      "anon_id": "P7",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-8",
+      "anon_id": "P8",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-8",
+      "anon_id": "P8",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-8",
+      "anon_id": "P8",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-9",
+      "anon_id": "P9",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-9",
+      "anon_id": "P9",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-10",
+      "anon_id": "P10",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-10",
+      "anon_id": "P10",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-11",
+      "anon_id": "P11",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-11",
+      "anon_id": "P11",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-12",
+      "anon_id": "P12",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-12",
+      "anon_id": "P12",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-12",
+      "anon_id": "P12",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-13",
+      "anon_id": "P13",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-13",
+      "anon_id": "P13",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-14",
+      "anon_id": "P14",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-14",
+      "anon_id": "P14",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-15",
+      "anon_id": "P15",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-15",
+      "anon_id": "P15",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-16",
+      "anon_id": "P16",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-16",
+      "anon_id": "P16",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-16",
+      "anon_id": "P16",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-17",
+      "anon_id": "P17",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-17",
+      "anon_id": "P17",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-18",
+      "anon_id": "P18",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-18",
+      "anon_id": "P18",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-19",
+      "anon_id": "P19",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-19",
+      "anon_id": "P19",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-20",
+      "anon_id": "P20",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-20",
+      "anon_id": "P20",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-20",
+      "anon_id": "P20",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-21",
+      "anon_id": "P21",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-21",
+      "anon_id": "P21",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-22",
+      "anon_id": "P22",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-22",
+      "anon_id": "P22",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-23",
+      "anon_id": "P23",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-23",
+      "anon_id": "P23",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-24",
+      "anon_id": "P24",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-24",
+      "anon_id": "P24",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-24",
+      "anon_id": "P24",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-25",
+      "anon_id": "P25",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-25",
+      "anon_id": "P25",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-26",
+      "anon_id": "P26",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-26",
+      "anon_id": "P26",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-27",
+      "anon_id": "P27",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-27",
+      "anon_id": "P27",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-28",
+      "anon_id": "P28",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-28",
+      "anon_id": "P28",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-28",
+      "anon_id": "P28",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-29",
+      "anon_id": "P29",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-29",
+      "anon_id": "P29",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-30",
+      "anon_id": "P30",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-30",
+      "anon_id": "P30",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-31",
+      "anon_id": "P31",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-31",
+      "anon_id": "P31",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-32",
+      "anon_id": "P32",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-32",
+      "anon_id": "P32",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-32",
+      "anon_id": "P32",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-33",
+      "anon_id": "P33",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-33",
+      "anon_id": "P33",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-34",
+      "anon_id": "P34",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-34",
+      "anon_id": "P34",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-35",
+      "anon_id": "P35",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-35",
+      "anon_id": "P35",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-36",
+      "anon_id": "P36",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-36",
+      "anon_id": "P36",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-36",
+      "anon_id": "P36",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-37",
+      "anon_id": "P37",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-37",
+      "anon_id": "P37",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-38",
+      "anon_id": "P38",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-38",
+      "anon_id": "P38",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-39",
+      "anon_id": "P39",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-39",
+      "anon_id": "P39",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-40",
+      "anon_id": "P40",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-40",
+      "anon_id": "P40",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-40",
+      "anon_id": "P40",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-41",
+      "anon_id": "P41",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-41",
+      "anon_id": "P41",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-42",
+      "anon_id": "P42",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-42",
+      "anon_id": "P42",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-43",
+      "anon_id": "P43",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-43",
+      "anon_id": "P43",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-44",
+      "anon_id": "P44",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-44",
+      "anon_id": "P44",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-44",
+      "anon_id": "P44",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-45",
+      "anon_id": "P45",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-45",
+      "anon_id": "P45",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-46",
+      "anon_id": "P46",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-46",
+      "anon_id": "P46",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-47",
+      "anon_id": "P47",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-47",
+      "anon_id": "P47",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-48",
+      "anon_id": "P48",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-48",
+      "anon_id": "P48",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-48",
+      "anon_id": "P48",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-49",
+      "anon_id": "P49",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-49",
+      "anon_id": "P49",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-50",
+      "anon_id": "P50",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-50",
+      "anon_id": "P50",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-51",
+      "anon_id": "P51",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-51",
+      "anon_id": "P51",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-52",
+      "anon_id": "P52",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-52",
+      "anon_id": "P52",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-52",
+      "anon_id": "P52",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-53",
+      "anon_id": "P53",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-53",
+      "anon_id": "P53",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "A-54",
+      "anon_id": "P54",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "C-54",
+      "anon_id": "P54",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "young"
+    },
+    {
+      "event": "B-55",
+      "anon_id": "P55",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-55",
+      "anon_id": "P55",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-56",
+      "anon_id": "P56",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-56",
+      "anon_id": "P56",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-56",
+      "anon_id": "P56",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-57",
+      "anon_id": "P57",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-57",
+      "anon_id": "P57",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-58",
+      "anon_id": "P58",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-58",
+      "anon_id": "P58",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-59",
+      "anon_id": "P59",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-59",
+      "anon_id": "P59",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-60",
+      "anon_id": "P60",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-60",
+      "anon_id": "P60",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-60",
+      "anon_id": "P60",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-61",
+      "anon_id": "P61",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-61",
+      "anon_id": "P61",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-62",
+      "anon_id": "P62",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-62",
+      "anon_id": "P62",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-63",
+      "anon_id": "P63",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-63",
+      "anon_id": "P63",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-64",
+      "anon_id": "P64",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-64",
+      "anon_id": "P64",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-64",
+      "anon_id": "P64",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-65",
+      "anon_id": "P65",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-65",
+      "anon_id": "P65",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-66",
+      "anon_id": "P66",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-66",
+      "anon_id": "P66",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-67",
+      "anon_id": "P67",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-67",
+      "anon_id": "P67",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-68",
+      "anon_id": "P68",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-68",
+      "anon_id": "P68",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "C-68",
+      "anon_id": "P68",
+      "channel": "C",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "A-69",
+      "anon_id": "P69",
+      "channel": "A",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    },
+    {
+      "event": "B-69",
+      "anon_id": "P69",
+      "channel": "B",
+      "day": "2026-10-03",
+      "consent_scope": "show-period",
+      "unit": "persons",
+      "age_group": "adult"
+    }
+  ],
+  "marginals": [
+    {
+      "source": "A-office",
+      "set": [
+        "A"
+      ],
+      "value": 1000,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "B-office",
+      "set": [
+        "B"
+      ],
+      "value": 800,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "C-office",
+      "set": [
+        "C"
+      ],
+      "value": 600,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "AB-audit",
+      "set": [
+        "A",
+        "B"
+      ],
+      "value": 300,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "AC-audit",
+      "set": [
+        "A",
+        "C"
+      ],
+      "value": 200,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "BC-audit",
+      "set": [
+        "B",
+        "C"
+      ],
+      "value": 250,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "A-days",
+      "set": [
+        "A"
+      ],
+      "value": 1400,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "daily_unique"
+    },
+    {
+      "source": "B-devices",
+      "set": [
+        "B"
+      ],
+      "value": 950,
+      "period": "show",
+      "universe": "all-device-users",
+      "unit": "devices",
+      "count_kind": "period_unique"
+    }
+  ],
+  "audit_pairs": [
+    {
+      "left": "P1",
+      "right": "Q1",
+      "scope": "sample-1",
+      "decision": "same"
+    },
+    {
+      "left": "P2",
+      "right": "Q2",
+      "scope": "sample-1",
+      "decision": "different"
+    },
+    {
+      "left": "P3",
+      "right": "Q3",
+      "scope": "sample-1",
+      "decision": "unresolved"
+    }
+  ]
+}

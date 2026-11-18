@@ -1,0 +1,9 @@
+{
+  "independence_verified": false,
+  "dependency_scenarios": [
+    "positive_dependence",
+    "weak_dependence",
+    "unconstrained"
+  ],
+  "linked_sample_representative": false
+}

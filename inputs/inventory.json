@@ -1,0 +1,47 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 299,
+      "sha256": "f8f94b28286c745d1a3c40e3bbdc5a2c9a20c0fe318c945d2a586e8e01785ae1"
+    },
+    {
+      "path": "analysis_requests.json",
+      "bytes": 156,
+      "sha256": "20885a17256f94e1b408232bc813b75cc1c62d3ef9dc195b3c9afb0d470d3a4d"
+    },
+    {
+      "path": "audit_pairs.parquet",
+      "bytes": 1924,
+      "sha256": "1914df935d35414e7e3361caa438a22056827813487f26deaa1d54874aceddf9",
+      "rows": 3
+    },
+    {
+      "path": "linked_events.parquet",
+      "bytes": 100750,
+      "sha256": "91203b2dddd90541fd60e22ebf8e5495d7a6afca3644f4e0260f490192b25757",
+      "rows": 158
+    },
+    {
+      "path": "marginals.parquet",
+      "bytes": 6558,
+      "sha256": "c33ed01e03256d317b886eb8d21b01c5dd680a92f6f6309b9802e75dcd15b5f3",
+      "rows": 8
+    },
+    {
+      "path": "model_assumptions.json",
+      "bytes": 188,
+      "sha256": "d5e3143ba5b1bb180e8e6962cb2d1b4c82c6ae372a25cf2f652cb6f67d272b34"
+    },
+    {
+      "path": "plans.json",
+      "bytes": 519,
+      "sha256": "bb367de004f7dde7b4250c679cdb2dcf1d0880a0b4f463d5be5e405b5d9cf4a9"
+    },
+    {
+      "path": "seed.json",
+      "bytes": 35154,
+      "sha256": "c6f0bde456b6f07e249770d859ad8d5e3bec91fb5b3f18baf39cb5bee40284b5"
+    }
+  ]
+}

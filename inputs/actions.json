@@ -1,0 +1,17 @@
+[
+  {
+    "step": 1,
+    "op": "replace_marginal",
+    "source": "BC-audit",
+    "value": 650,
+    "reason": "source correction unconfirmed"
+  },
+  {
+    "step": 2,
+    "op": "resolve_sample",
+    "left": "P3",
+    "right": "Q3",
+    "decision": "same",
+    "scope": "sample-1"
+  }
+]

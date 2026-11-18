@@ -1,0 +1,9 @@
+[
+  {
+    "id": "reach",
+    "period": "show",
+    "universe": "city-adult-visitors",
+    "unit": "persons",
+    "count_kind": "period_unique"
+  }
+]
