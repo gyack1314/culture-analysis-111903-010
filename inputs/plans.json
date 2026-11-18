@@ -1,32 +1,47 @@
 [
   {
-    "id": "AB",
+    "id": "P1",
     "channels": [
       "A",
-      "B"
+      "B",
+      "D"
     ],
     "cost_minor": 900000,
-    "budget_minor": 1000000,
+    "budget_minor": 1200000,
     "target": "city-adult-visitors"
   },
   {
-    "id": "AC",
+    "id": "P2",
     "channels": [
       "A",
-      "C"
+      "C",
+      "E"
     ],
-    "cost_minor": 800000,
-    "budget_minor": 1000000,
+    "cost_minor": 1000000,
+    "budget_minor": 1200000,
     "target": "city-adult-visitors"
   },
   {
-    "id": "BC",
+    "id": "P3",
     "channels": [
       "B",
-      "C"
+      "F",
+      "G"
     ],
-    "cost_minor": 600000,
-    "budget_minor": 1000000,
+    "cost_minor": 1100000,
+    "budget_minor": 1200000,
+    "target": "city-adult-visitors"
+  },
+  {
+    "id": "P4",
+    "channels": [
+      "C",
+      "D",
+      "F",
+      "G"
+    ],
+    "cost_minor": 1300000,
+    "budget_minor": 1200000,
     "target": "city-adult-visitors"
   }
 ]

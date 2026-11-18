@@ -2,8 +2,8 @@
   {
     "step": 1,
     "op": "replace_marginal",
-    "source": "BC-audit",
-    "value": 650,
+    "source": "audit-AB",
+    "value": 1315,
     "reason": "source correction unconfirmed"
   },
   {

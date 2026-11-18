@@ -1425,69 +1425,248 @@
   ],
   "marginals": [
     {
-      "source": "A-office",
+      "source": "audit-A",
       "set": [
         "A"
       ],
-      "value": 1000,
+      "value": 1222,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
       "count_kind": "period_unique"
     },
     {
-      "source": "B-office",
+      "source": "audit-B",
       "set": [
         "B"
       ],
-      "value": 800,
+      "value": 1215,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
       "count_kind": "period_unique"
     },
     {
-      "source": "C-office",
+      "source": "audit-C",
       "set": [
         "C"
       ],
-      "value": 600,
+      "value": 1201,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
       "count_kind": "period_unique"
     },
     {
-      "source": "AB-audit",
+      "source": "audit-D",
+      "set": [
+        "D"
+      ],
+      "value": 1231,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-E",
+      "set": [
+        "E"
+      ],
+      "value": 1204,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-F",
+      "set": [
+        "F"
+      ],
+      "value": 1237,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-G",
+      "set": [
+        "G"
+      ],
+      "value": 1216,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-AB",
       "set": [
         "A",
         "B"
       ],
-      "value": 300,
+      "value": 604,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
       "count_kind": "period_unique"
     },
     {
-      "source": "AC-audit",
+      "source": "audit-AD",
       "set": [
         "A",
-        "C"
+        "D"
       ],
-      "value": 200,
+      "value": 612,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
       "count_kind": "period_unique"
     },
     {
-      "source": "BC-audit",
+      "source": "audit-AF",
+      "set": [
+        "A",
+        "F"
+      ],
+      "value": 615,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-BC",
       "set": [
         "B",
         "C"
       ],
-      "value": 250,
+      "value": 608,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-BE",
+      "set": [
+        "B",
+        "E"
+      ],
+      "value": 595,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-BG",
+      "set": [
+        "B",
+        "G"
+      ],
+      "value": 572,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-CE",
+      "set": [
+        "C",
+        "E"
+      ],
+      "value": 588,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-CG",
+      "set": [
+        "C",
+        "G"
+      ],
+      "value": 594,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-DF",
+      "set": [
+        "D",
+        "F"
+      ],
+      "value": 634,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-EF",
+      "set": [
+        "E",
+        "F"
+      ],
+      "value": 606,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-FG",
+      "set": [
+        "F",
+        "G"
+      ],
+      "value": 612,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-ABC",
+      "set": [
+        "A",
+        "B",
+        "C"
+      ],
+      "value": 295,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-BDF",
+      "set": [
+        "B",
+        "D",
+        "F"
+      ],
+      "value": 299,
+      "period": "show",
+      "universe": "city-adult-visitors",
+      "unit": "persons",
+      "count_kind": "period_unique"
+    },
+    {
+      "source": "audit-CEG",
+      "set": [
+        "C",
+        "E",
+        "G"
+      ],
+      "value": 298,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
@@ -1498,7 +1677,7 @@
       "set": [
         "A"
       ],
-      "value": 1400,
+      "value": 1722,
       "period": "show",
       "universe": "city-adult-visitors",
       "unit": "persons",
@@ -1509,7 +1688,7 @@
       "set": [
         "B"
       ],
-      "value": 950,
+      "value": 1365,
       "period": "show",
       "universe": "all-device-users",
       "unit": "devices",

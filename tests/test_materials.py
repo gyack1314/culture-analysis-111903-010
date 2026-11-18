@@ -25,6 +25,7 @@ class InputMaterials(unittest.TestCase):
         self.assertTrue(any(x['unit']=='devices' for x in marginals))
         self.assertTrue(any(x['count_kind']=='daily_unique' for x in marginals))
         self.assertTrue(any(len(x['set'])==2 for x in marginals))
-        self.assertFalse(any(len(x['set'])==3 for x in marginals))
+        self.assertTrue(any(len(x['set'])==3 for x in marginals))
+        self.assertFalse(any(len(x['set'])==7 for x in marginals))
         self.assertTrue(any(x['decision']=='unresolved' for x in seed['audit_pairs']))
         self.assertTrue(all(x['consent_scope']=='show-period' for x in seed['linked_events']))
